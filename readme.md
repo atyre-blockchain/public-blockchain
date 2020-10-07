@@ -16,7 +16,7 @@ A new and innovative way of shopping via blockchain technology. Currently in bet
 
 ## Usage
 
-### First link: [AtyreClient](https://atyreclient.herokuapp.com/)
+### <img src="images/bitcoin.png" width="30" height="30"> First link: [AtyreClient](https://atyreclient.herokuapp.com/)
 
 ```python
 In the first link, you can:
@@ -24,7 +24,7 @@ In the first link, you can:
     - make a sample blockchain transaction
     - view all confirmed transactions
 ```
-### Second link: [AtyreChain](https://atyrechain.herokuapp.com/)
+### <img src="images/3.png" width="30" height="30"> Second link: [AtyreChain](https://atyrechain.herokuapp.com/)
 ```python
 In the second link, you can:
     - mine your sample transaction, to add it to 
@@ -33,7 +33,7 @@ In the second link, you can:
       the blockchain
 ```
 
-## Issues
+## <img src="images/security.png" width="30" height="30"> Issues
 Pull requests are welcome. For major changes, please open a [new issue](https://github.com/atyre-blockchain/public-blockchain/issues/new), first to discuss what you would like to change.
 
 ## Support
@@ -46,8 +46,8 @@ For support and help on the demo, reach out to the team in any of these places:
 
 
 
-## Development
-The development of the project is as follows:
+## <img src="images/security1.png" width="30" height="30"> Development
+The development of atyre blockchain:
 - Idea Created **(2020)**
 - First functional prototype **(2020)**
 - Bug fixes, User Testing **(2020)**
