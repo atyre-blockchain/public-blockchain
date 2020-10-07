@@ -1,4 +1,5 @@
-# 🚀 ATYRE BLOCKCHAIN
+# 🚀 ATYRE BLOCKCHAIN 
+<img src="images/comp.png" width="20" height="20">
 
 ![Maintenance](https://img.shields.io/badge/maintained%3F-yes-brightgreen.svg)
  ![Website Status](https://img.shields.io/badge/websites-online-brightgreen)
@@ -40,7 +41,7 @@ Pull requests are welcome. For major changes, please open a [new issue](https://
 For support and help on the demo, reach out to the team in any of these places:
 - [:envelope_with_arrow:](https://atyre.herokuapp.com/)
 - <a href="https://twitter.com/atyretech"><img src="http://www.newdesignfile.com/postpic/2012/02/official-twitter-logo-icon_51308.png" width="20" height="20"></a>
-- [:octocat:](https://github.com/vladyslavnUA)
+- [:octocat:](https://github.com/atyre-blockchain)
 - <a href="https://atyre.herokuapp.com/"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" width="20" height="20"></a>
 
 
@@ -55,4 +56,4 @@ The development of the project is as follows:
  
 
 
-Copyright © [atyre tech](https://atyre.herokuapp.com/).
+Copyright © [atyre tech](https://atyre.herokuapp.com/)
