@@ -1,4 +1,4 @@
-# 🚀 ATYRE BLOCKCHAIN  <img src="images/comp.png" width="40" height="40">
+# 🚀 ATYRE BLOCKCHAIN  <img src="images/comp.png" width="30" height="30">
 
 ![Maintenance](https://img.shields.io/badge/maintained%3F-yes-brightgreen.svg)
  ![Website Status](https://img.shields.io/badge/websites-online-brightgreen)
